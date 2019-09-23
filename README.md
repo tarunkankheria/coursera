@@ -1,2 +1,2 @@
-# Coursera_Capstone
+# Coursera
 coursera repository
